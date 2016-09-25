@@ -1,9 +1,7 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-intermediate-reader.ss" "lang")((modname a02q1) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
-;;Ryan Hamin Kim
-;CS116
-;Assignment 2 Question 1
+
 
 ; (multiples-between a b k) produces a list of values that are multiples of k that
 ;  are in the range from a to b
