@@ -1,9 +1,7 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname a02q2) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
-;Ryan Hamin Kim
-;CS116
-;Assignment 2 Question 2
+
 
 ;(tov-maker x delta n) produces a function that plots a graph with starting x
 ; as x and goes up by delta. produces n amount of values
