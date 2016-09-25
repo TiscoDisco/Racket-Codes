@@ -1,9 +1,7 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-intermediate-reader.ss" "lang")((modname a01q3) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
-;Ryan Hamin Kim 20623928
-;CS116
-;Assignment 1 Question 3
+
 (define-struct item (title price))
 ;; An Item is (make-item Str Num)
 ;; * describes a product (title and price) one might want to buy from a store
